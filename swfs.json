@@ -71,5 +71,12 @@
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
     }
+        {
+      "location": "swfs/run/Run3.swf",
+      "title": "Run 3",
+      "author": "Steve-Tech",
+      "authorLink": "https://github.com/Steve-Tech",
+      "type": "The Run Series"
+    }
   ]
 }
